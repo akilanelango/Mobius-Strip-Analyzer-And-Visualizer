@@ -6,8 +6,7 @@ This Python application computes and visualizes Möbius strips using parametric 
 
 ## **📁 Project Structure**
 
-plaintext  
-CopyEdit  
+
 `Mobius_Strip/`  
 `├── mobius_strip.py         # Core class for geometry and plotting`  
 `├── mobius_testcases.txt    # Input test cases`  
@@ -21,8 +20,7 @@ CopyEdit
 
 Install the required packages with:
 
-bash  
-CopyEdit  
+ 
 `pip install requirements.txt`
 
 ---
@@ -63,8 +61,7 @@ Returns:
 
 Each line contains parameters for one Möbius strip:
 
-txt  
-CopyEdit  
+ 
 `# Format: R w n`  
 `1.0 0.3 200`  
 `1.5 0.2 150`  
